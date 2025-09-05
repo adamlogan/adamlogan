@@ -1,5 +1,1 @@
-## Adam Logan's Github Profile
-
-Currently learning JAVA via Hyperskill. 
-
-Stay tuned!
+Hi there! I am currently learning JAVA via Hyperskill. Stay tuned!
