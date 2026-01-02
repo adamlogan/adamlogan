@@ -1,1 +1,1 @@
-Hi there! I am currently learning JAVA via Hyperskill. Stay tuned!
+Hi, noob enthusiast here. I am learning shell scripting, and docker compose, occasionally dabbling with python.
